@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/id_eparking_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_cars_parking"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/activity_main_text_full"
+        android:layout_width="330dp"
+        android:layout_height="111dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="124dp"
+        android:text="@string/textview_share_your_location"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/color_text_white"
+        android:textSize="18sp"
+        app:fontFamily="serif" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/button_turn_location_on"
+        android:layout_width="311dp"
+        android:layout_height="73dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:text="@string/btn_share_location"
+        android:textAllCaps="false"
+        android:textColor="@color/color_text_white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:backgroundTint="#00FFB13B"
+        app:cornerRadius="10dp"
+        app:strokeColor="#EBBA16"
+        app:strokeWidth="5px" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="181dp"
+        android:layout_height="136dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:contentDescription="@string/text_car_parking_image_desription"
+        app:srcCompat="@drawable/parking_icon" />
+
+    <TextView
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="191dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="@string/text_turn_on_location"
+        android:textAlignment="center"
+        android:textColor="@color/color_btn_turn_location_on"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

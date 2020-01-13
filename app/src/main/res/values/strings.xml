@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">eParking</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Dummy Button</string>
+    <string name="text_turn_on_location">Turn on Location</string>
+    <string name="btn_share_location">Yes, share my location</string>
+    <string name="text_car_parking_image_desription">car parking icon</string>
+    <string name="textview_share_your_location">Share your location, and we will find parking places near you</string>
+    <string name="vehicle_tuktuk_motorbike_number_plate">Vehicle/Tuktuk/Motorbike Number Plate</string>
+    <string name="vehicle_tuktuk_motorbike_number_plate_1">First Vehicle/Tuktuk/Bike Number Plate</string>
+    <string name="vehicle_tuktuk_motorbike_number_plate_2">Second Vehicle/Tuktuk/Bike Number Plate</string>
+    <string name="vehicle_accident_exact_location">Accident Exact Location Name</string>
+    <string name="vehicle_accident_reporter">Your Name/Phone {optional}</string>
+    <string name="vehicle_accident_cause">Accident Caused by ?</string>
+    <string name="mpesa_number_you_are_using_to_pay">Mpesa Number you are using to pay with</string>
+    <string name="lipa_na_mpesa">Lipa Na Mpesa</string>
+    <string name="ob_offence_number">OB/ Offence number</string>
+    <string name="traffic_location_road_name">Traffic Location/ Road Name</string>
+    <string name="traffic_jam_caused_by">Traffic Jam is Caused By ?</string>
+    <string name="location_name">Location Name</string>
+    <string name="report_traffic_jam">Report Traffic Jam</string>
+
+    <string-array name="breakdown_mombasa_places">
+        <item>CBD-Town</item>
+        <item>Likoni</item>
+        <item>Mvita</item>
+        <item>Nyali</item>
+        <item>Bombolulu</item>
+        <item>Bamburi</item>
+        <item>Changamwe</item>
+        <item>Old town</item>
+        <item>Mshomoroni</item>
+        <item>Chuda</item>
+    </string-array>
+    <string-array name="mombasa_vehicle_type">
+        <item>Saloon / Private Car</item>
+        <item>Lories 5-9.9 Tonnes</item>
+        <item>Truck</item>
+        <item>Canter Pick-up 2.0 - 4.9 Tonnes</item>
+        <item>Tuktuk</item>
+    </string-array>
+</resources>
+

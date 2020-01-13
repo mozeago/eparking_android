@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555866203463",
+    "firebase_url": "https://eparking-4f64e.firebaseio.com",
+    "project_id": "eparking-4f64e",
+    "storage_bucket": "eparking-4f64e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555866203463:android:e5e32f39d4e95a79139862",
+        "android_client_info": {
+          "package_name": "com.techoutsource.mparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555866203463-kob5mk591ht9ln2mcl2o3s9tj9d1iuj2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techoutsource.mparking",
+            "certificate_hash": "68909c245eec98338c6c6c4083224cb5b45bc25e"
+          }
+        },
+        {
+          "client_id": "555866203463-a6iba4kdpo6eep5hb5n2dtqn6aqegpln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd7bVvfzxHzJp8q3-fwsEYFKkHSLo3ur8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555866203463-a6iba4kdpo6eep5hb5n2dtqn6aqegpln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
