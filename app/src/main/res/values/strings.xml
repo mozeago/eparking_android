@@ -20,6 +20,9 @@
     <string name="traffic_jam_caused_by">Traffic Jam is Caused By ?</string>
     <string name="location_name">Location Name</string>
     <string name="report_traffic_jam">Report Traffic Jam</string>
+    <string name="report_jam">Report Jam</string>
+    <string name="who_mistreated_you">Who Mistreated You</string>
+    <string name="describe_how_you_were_mistreated">Describe how you were mistreated</string>
 
     <string-array name="breakdown_mombasa_places">
         <item>CBD-Town</item>
